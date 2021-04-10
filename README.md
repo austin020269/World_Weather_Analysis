@@ -1,5 +1,43 @@
 # World_Weather_Analysis
 
+## Project Overview
+The school has provided data to analyze school spending, standardized test scores and student grades (math and reading scores).
+
+## Resources
+Data Sources provided to analyze and minipulate included:
+- schools_complete.csv
+- students_complete.csv
+- clean_students_complete.csv
+- missing_grades.csv
+
+Software utilized for this study included: 
+- Python 3.7.6 
+- Conda 4.9.2 
+- Jupyter Notebook 6.1.4
+- GitHub account
+
+## Analysis and Workflow
+Data for the math and reading scores were removed then we created district and school summary dataframes to manipulte the following:
+
+- Top 5 and bottom 5 performing schools
+- Average math score received by students in each grade level at each school
+- Average reading score received by students in each grade level at each school
+- School performance based on the spending per student
+- School performance based on the size of the school
+- School performance based on the type of school
+
+The Jupyter notebooks (Python code) for the above analysis was worked through in the following files.
+
+https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools.ipynb
+https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb
+
+The Challenge at the end of the module which finakized results of the study is here:
+
+https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_final.ipynb
+
+
+## Summary
+
 Collect the Data
 
 Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
