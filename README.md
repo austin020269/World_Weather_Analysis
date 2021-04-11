@@ -30,11 +30,15 @@ Our code was used to create a spreadsheet containing cities and their current we
 Deliverable 2 (code : https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb)
 We used input statements to retrieve customer weather preferences to identify potential travel destinations and nearby hotels.  The search was run according to the answers as follows :
 
-- What is the minimum temperature you would like for your trip? 0
-- What is the maximum temperature you would like for your trip? 100
+1. What is the minimum temperature you would like for your trip? 0
+2. What is the maximum temperature you would like for your trip? 100
+
+- The filter the dataframe according to the answers from 1 and 2.
 
 ![alt text](https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Search/Hotel_listings.png)
 
-Deliverable 3
+Deliverable 3 (code: https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary%2Cipynb.ipynb)
+
+
 
 
