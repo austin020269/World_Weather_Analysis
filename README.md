@@ -42,6 +42,8 @@ Then:
 - Get the first hotel from the results and store the name, if a hotel isn't found skip the city.
 - Drop rows with no hotel and create output file to poulate the figure as shown below.
 
+![alt text](https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Search/Deliverable%202%20out.PNG)
+
 ![alt text](https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Search/Hotel_listings.png)
 
 Deliverable 3 (code: https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary%2Cipynb.ipynb)
