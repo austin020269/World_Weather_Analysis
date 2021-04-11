@@ -51,5 +51,5 @@ Then:
 Deliverable 3 (code: https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary%2Cipynb.ipynb)
 
 
-
+![alt text](https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
