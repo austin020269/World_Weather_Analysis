@@ -25,6 +25,8 @@ Our code was used to create a spreadsheet containing cities and their current we
 - Wind speed
 - Weather description (for example, clouds, fog, light rain, clear sky)
 
+The output datafile looks like the following.
+
 ![alt text](https://github.com/austin020269/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database_csv.PNG)
 
 Deliverable 2 (code : https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb)
