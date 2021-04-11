@@ -66,7 +66,7 @@ We wanted to create an itinerary map showing all the locations we are going to v
 - Create a marker layer map between the four cities, combining all four of their dataframes as shown below.
 - Print the map for visual purposes for the trip.
 
-
+![alt text](https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Itinerary/itinerary.PNG)
 
 ![alt text](https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
