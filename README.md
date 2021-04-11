@@ -1,20 +1,18 @@
 # World_Weather_Analysis
+Module 6 World Weather Analysis
 
 ## Project Overview
-The school has provided data to analyze school spending, standardized test scores and student grades (math and reading scores).
+Cities data was provided in order to use APIs to chose hotels for clients based on their weather preferences.
 
 ## Resources
-Data Sources provided to analyze and minipulate included:
-- schools_complete.csv
-- students_complete.csv
-- clean_students_complete.csv
-- missing_grades.csv
+Data Sources provided to analyze and minipulate included the cities.csv excel spreadsheet.
 
 Software utilized for this study included: 
 - Python 3.7.6 
 - Conda 4.9.2 
 - Jupyter Notebook 6.1.4
-- GitHub account
+- Google Maps APIs
+- Open Weather APIs
 
 ## Analysis and Workflow
 Data for the math and reading scores were removed then we created district and school summary dataframes to manipulte the following:
