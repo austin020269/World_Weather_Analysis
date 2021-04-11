@@ -40,7 +40,7 @@ Then:
 - Set parameters to search for hotels with 5000 meters.
 - Iterate the hotel dataframe and set up the base URL to retrieve JSON data
 - Get the first hotel from the results and store the name, if a hotel isn't found skip the city.
-- Drop rows with no hotel and create output file to poulate the figure as shown below.
+- Drop rows with no hotel and create output file to populate the figure as shown below.
 
 ![alt text](https://github.com/austin020269/World_Weather_Analysis/blob/main/Vacation_Search/Deliverable%202%20out.PNG)
 
