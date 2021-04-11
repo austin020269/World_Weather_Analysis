@@ -8,6 +8,7 @@ Cities data was provided in order to use APIs to chose hotels for clients based 
 Data Sources provided to analyze and minipulate included:
 
 - cities.csv
+- WeatherPy_Database.csv
 - WeatherPy_vacation.csv
 
 Software utilized for this study included: 
