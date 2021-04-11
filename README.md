@@ -60,7 +60,7 @@ We wanted to create an itinerary map showing all the locations we are going to v
 - Using the template add the city name, the country code, the weather description and maximum temperature for the city
 - Get the data from each row and add it
 - Get the latitude and longitude from each row abd add it
-- Pick four cities to create a vacation itinerary to visit
+- Pick four cities to create a vacation itinerary to visit in a specific order (Pacific Grove > Rosarito > San Patricio > Merrill) 
 - Get the latitude-longitude pairs as tuples from each city DataFrame
 - Create a direction layer map using the start and end latitude-longitude pairs
 - Create a marker layer map between the four cities, combining all four of their dataframes as shown below.
